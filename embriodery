@@ -1,0 +1,54 @@
+<html>
+<head>
+  <title>Embriodery</title>
+  <link rel=stylesheet href=styles.css>
+  <link rel="stylesheet" href="https://use.typekit.net/vxq6jos.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+<!--#include file="header.shtml"-->
+<body style="background:url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg); background-repeat: no-repeat; background-size: cover;font-family:'Pacifico';font-size:2em; text-align:center; width:100%;">
+<div><p style="color:#FF69B4; width: 100%; margin-top:5px; margin-left:0 auto; margin-right:0 auto;"><a href="https://sandbox.design303.com/AllisonLouie/PersonalWebsiteFinal/visuals.html" target:"_blank;">Return to Visuals</a></p></div>
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+<h1 id=visualheads>Embriodery</h1>
+<p id=about>I enjoyed working with embriodery after being stuck in the pandemic and I decided to explore more sewing techinques to create an image.</p>
+<section class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true }' style="margin-top:5px">
+<div class="carousel-cell" style="margin-top:5px; width: 100%; margin: 0 auto; height: 100%;">
+  <div style="width: 50%; margin: 0 auto; height: 90%; display: grid; place-items: center; background-image: url(https://i.ibb.co/j35X0rq/ladybird.png); background-position: cover;">
+  </div>
+  </div>
+
+  <div class="carousel-cell" style="margin-top:5px; width: 100%; margin: 0 auto; height: 100%;">
+    <div style="width: 50%; margin: 0 auto; height: 90%; display: grid; place-items: center; background-image: url(https://i.ibb.co/fxVsfhj/catlaundry.png); background-position: cover;">
+    </div>
+    </div>
+
+
+  <div class="carousel-cell" style="margin-top:5px; width: 100%; margin: 0 auto; height: 100%;">
+    <div style="width: 50%; margin: 0 auto; height: 90%; display: grid; place-items: center; background-image: url(https://i.ibb.co/VHWQ6zK/chrysanthemum.png); background-position: cover;">
+    </div>
+  </div>
+
+<div class="carousel-cell" style="margin-top:5px; width: 100%; margin: 0 auto; height: 100%;">
+        <div style="width: 50%; margin: 0 auto; height: 90%; display: grid; place-items: center; background-image: url(https://i.ibb.co/MDTxsd0/coleflower.png); background-position: cover;">
+        </div>
+      </div>
+
+<div class="carousel-cell" style="margin-top:5px; width: 100%; margin: 0 auto; height: 100%;">
+            <div style="width: 50%; margin: 0 auto; height: 90%; display: grid; place-items: center; background-image: url(https://i.ibb.co/cxfh9MB/forgetmenot.png); background-position: cover;">
+            </div>
+          </div>
+<div class="carousel-cell" style="margin-top:5px; width: 100%; margin: 0 auto; height: 100%;">
+          <div style="width: 50%; margin: 0 auto; height: 90%; display: grid; place-items: center; background-image: url(https://i.ibb.co/b30vMDH/mushu.png); background-position: cover;">
+          </div>
+          </div>
+<div class="carousel-cell" style="margin-top:5px; width: 100%; margin: 0 auto; height: 100%;">
+  <div style="width: 50%; margin: 0 auto; height: 90%; display: grid; place-items: center; background-image: url(https://i.ibb.co/m4MCqbm/vanessastockardcat.png); background-position: cover;">
+    </div>
+    </div>
+</div>
+</section>
+</div>
+</html>
